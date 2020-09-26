@@ -1,0 +1,2 @@
+{:deps
+  {necessary-evil/necessary-evil {:mvn/version "2.0.2"}}}
